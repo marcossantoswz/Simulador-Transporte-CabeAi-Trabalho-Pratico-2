@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 # Simulador-Transporte-CabeAi-Trabalho-Pratico-2
-Trabalho Prático 2 da disciplina de Estrutura de Dados
 =======
-# Simulador-Transporte-CabeAi-TP2
 
 Trabalho Prático II da disciplina de **Estrutura de Dados** (UFMG)
 
@@ -112,4 +109,3 @@ Este projeto foi desenvolvido por **Marcos Aurelio Santos** como parte da avalia
 **Contato:** [LinkedIn](https://www.linkedin.com/in/marcos9247)
 
 © 2025 Marcos Aurelio Santos. Código disponível para fins de estudo.
->>>>>>> caba1aa (Envio de projeto)
