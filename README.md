@@ -1,5 +1,4 @@
 # Simulador-Transporte-CabeAi-Trabalho-Pratico-2
-=======
 
 Trabalho Prático II da disciplina de **Estrutura de Dados** (UFMG)
 
@@ -91,21 +90,20 @@ A primeira parte do arquivo define os parâmetros de restrição, seguida pela l
 A análise experimental demonstrou a importância das otimizações de "poda" (breaks) no algoritmo de agrupamento.
 
 * **Cenário Realista:** Com as restrições de tempo e distância ativas, o algoritmo opera de forma praticamente linear $O(N)$, pois descarta rapidamente candidatos inviáveis.
+
+![Gráfico de desempenho linear](assets/grafico1.png)
+
+  
 * **Cenário de Estresse:** Ao relaxar totalmente os parâmetros (permitindo qualquer combinação), o algoritmo degrada para $O(N^2)$, comparando todas as demandas entre si.
 
-### Gráfico de Desempenho
-#### Cenário implementado com breaks
-![Gráfico de desempenho linear](assets/grafico1.png)
-#### Cenário de Estresse
 ![Gráfico de desempenho quadrático](assets/grafico2.png)
 
 ---
 
 ## 📄 Autoria e Licença
 
-Este projeto foi desenvolvido por **Marcos Aurelio Santos** como parte da avaliação da disciplina de Estruturas de Dados da UFMG.
+Este projeto foi desenvolvido como parte da avaliação da disciplina de Estruturas de Dados do curso de Ciência da Computação na UFMG.
 
-**Autor:** Marcos Aurelio Santos
 **Contato:** [LinkedIn](https://www.linkedin.com/in/marcos9247)
 
-© 2025 Marcos Aurelio Santos. Código disponível para fins de estudo.
+© 2025 Marcos Aurelio Santos. Código disponível para fins acadêmicos.
